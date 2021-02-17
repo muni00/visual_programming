@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.Form1.resources
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\bin\Debug\ögr_kayıt.exe.config
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\bin\Debug\ögr_kayıt.exe
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\bin\Debug\ögr_kayıt.pdb
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.exe
+C:\Users\asus\Desktop\projelerim\ögr_kayıt\ögr_kayıt\obj\Debug\ögr_kayıt.pdb

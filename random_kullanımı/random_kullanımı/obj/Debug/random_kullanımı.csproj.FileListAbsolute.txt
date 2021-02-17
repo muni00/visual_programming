@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\bin\Debug\random_kullanımı.exe.config
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\bin\Debug\random_kullanımı.exe
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\bin\Debug\random_kullanımı.pdb
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.Form1.resources
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.exe
+C:\Users\asus\Desktop\projelerim\random_kullanımı\random_kullanımı\obj\Debug\random_kullanımı.pdb

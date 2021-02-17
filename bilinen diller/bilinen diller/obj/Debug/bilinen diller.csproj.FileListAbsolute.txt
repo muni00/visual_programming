@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\bin\Debug\bilinen diller.exe.config
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\bin\Debug\bilinen diller.exe
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\bin\Debug\bilinen diller.pdb
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen diller.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen_diller.Form1.resources
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen_diller.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen diller.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen diller.exe
+C:\Users\asus\Desktop\projelerim\bilinen diller\bilinen diller\obj\Debug\bilinen diller.pdb

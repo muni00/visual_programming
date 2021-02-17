@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "error_provider", "error_provider\error_provider.csproj", "{94DB5E07-7963-4C17-9105-A7CB91D6E345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DB5E07-7963-4C17-9105-A7CB91D6E345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DB5E07-7963-4C17-9105-A7CB91D6E345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DB5E07-7963-4C17-9105-A7CB91D6E345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DB5E07-7963-4C17-9105-A7CB91D6E345}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD618DA4-97EA-46F9-87EC-94F2B008E35B}
+	EndGlobalSection
+EndGlobal
