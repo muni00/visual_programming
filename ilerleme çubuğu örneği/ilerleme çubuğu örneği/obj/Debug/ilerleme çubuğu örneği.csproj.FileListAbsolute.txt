@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\bin\Debug\ilerleme çubuğu örneği.exe.config
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\bin\Debug\ilerleme çubuğu örneği.exe
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\bin\Debug\ilerleme çubuğu örneği.pdb
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme çubuğu örneği.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme_çubuğu_örneği.Form1.resources
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme_çubuğu_örneği.Form2.resources
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme_çubuğu_örneği.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme çubuğu örneği.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme çubuğu örneği.exe
+C:\Users\asus\Desktop\projelerim\ilerleme çubuğu örneği\ilerleme çubuğu örneği\obj\Debug\ilerleme çubuğu örneği.pdb
