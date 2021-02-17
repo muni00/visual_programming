@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\bin\Debug\malzeme_satış.exe.config
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\bin\Debug\malzeme_satış.exe
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\bin\Debug\malzeme_satış.pdb
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.Form1.resources
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.exe
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.pdb
+C:\Users\asus\Desktop\projelerim\malzeme_satış\malzeme_satış\obj\Debug\malzeme_satış.csprojAssemblyReference.cache

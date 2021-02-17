@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\bin\Debug\mezuniyet_örnek.exe.config
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\bin\Debug\mezuniyet_örnek.exe
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\bin\Debug\mezuniyet_örnek.pdb
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.Form1.resources
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.exe
+C:\Users\asus\Desktop\projelerim\mezuniyet_örnek\mezuniyet_örnek\obj\Debug\mezuniyet_örnek.pdb
