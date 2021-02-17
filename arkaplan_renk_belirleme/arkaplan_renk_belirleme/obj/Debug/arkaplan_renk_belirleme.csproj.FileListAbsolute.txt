@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\bin\Debug\arkaplan_renk_belirleme.exe.config
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\bin\Debug\arkaplan_renk_belirleme.exe
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\bin\Debug\arkaplan_renk_belirleme.pdb
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.Form1.resources
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.Properties.Resources.resources
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.exe
+C:\Users\asus\Desktop\projelerim\arkaplan_renk_belirleme\arkaplan_renk_belirleme\obj\Debug\arkaplan_renk_belirleme.pdb
